@@ -1,4 +1,4 @@
-#RESTful API Activity - [YOUR NAME HERE]
+#RESTful API Activity - [JOYZEL H. SAGUID]
 
 ##Best Practices Implementation
 
